@@ -1,0 +1,3 @@
+C:\Users\Owner\source\repos\Lab02-Calculator-MEAN\obj\Debug\Lab02-Calculator-MEAN.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab02-Calculator-MEAN\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Owner\source\repos\Lab02-Calculator-MEAN\obj\Debug\Lab02-Calculator-MEAN.njsprojAssemblyReference.cache
